@@ -1,4 +1,4 @@
-name: Spoke Phone
+name: Spoke
 favicon: null
 layout_spectrum: 0.592313916888088
 typography_spectrum: 0.3574729156680405
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.375
   lightness: 0.8890990195795894
   saturation: 0.26586197689175606
-  rhythmicContrast: 0.5900919295381755
+  rhythmicContrast: 0.75
 purpose: []
