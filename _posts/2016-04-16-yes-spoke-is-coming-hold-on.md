@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Yes, Spoke is coming.... hold on!'
-datePublished: '2016-04-16T04:23:39.483Z'
-dateModified: '2016-04-16T04:23:25.307Z'
+datePublished: '2016-04-16T04:49:05.197Z'
+dateModified: '2016-04-16T04:23:47.010Z'
+title: ''
+author: []
+sourcePath: _posts/2016-04-16-yes-spoke-is-coming-hold-on.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
-sourcePath: _posts/2016-04-16-yes-spoke-is-coming-hold-on.md
-published: true
 url: yes-spoke-is-coming-hold-on/index.html
 _type: Article
 
