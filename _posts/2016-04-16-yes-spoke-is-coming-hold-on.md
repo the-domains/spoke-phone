@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-04-24T23:16:17.559Z'
+datePublished: '2016-04-24T23:20:41.603Z'
 sourcePath: _posts/2016-04-16-yes-spoke-is-coming-hold-on.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 published: true
-dateModified: '2016-04-24T23:16:07.025Z'
+dateModified: '2016-04-24T23:20:09.083Z'
 title: Is that @SpokeNetwork?
 publisher:
   name: null
@@ -23,4 +23,4 @@ _type: Article
 
 ---
 # Is that @SpokeNetwork?
-![Description,,,,](https://s3-us-west-2.amazonaws.com/the-grid-img/p/69c7497248bbdc0a49fe197c7936704d520d5c82.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/69c7497248bbdc0a49fe197c7936704d520d5c82.jpg)
