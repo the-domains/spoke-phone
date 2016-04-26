@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-04-24T23:20:41.603Z'
+datePublished: '2016-04-26T19:37:24.795Z'
 sourcePath: _posts/2016-04-16-yes-spoke-is-coming-hold-on.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 published: true
-dateModified: '2016-04-24T23:20:09.083Z'
+dateModified: '2016-04-26T19:37:07.241Z'
 title: Is that @SpokeNetwork?
 publisher:
   name: null
