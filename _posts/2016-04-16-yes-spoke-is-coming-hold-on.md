@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-04-28T16:40:00.071Z'
+datePublished: '2016-04-28T17:15:32.946Z'
 sourcePath: _posts/2016-04-16-yes-spoke-is-coming-hold-on.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 published: true
-dateModified: '2016-04-28T16:36:49.547Z'
+dateModified: '2016-04-28T17:13:03.864Z'
 title: Is that Spoke?
 publisher:
   name: null
@@ -17,7 +17,7 @@ publisher:
 description: 'Calling people is about to get way easier!'
 inLanguage: null
 inNav: false
-starred: false
+starred: true
 url: yes-spoke-is-coming-hold-on/index.html
 _type: Article
 
