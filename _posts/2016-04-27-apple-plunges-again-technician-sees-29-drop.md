@@ -29,11 +29,11 @@ app_links:
     app_store_id: '398018310'
 isBasedOnUrl: 'http://www.cnbc.com/2016/01/06/why-apple-may-fall-another-29-top-technician.html'
 title: 'Apple plunges again, technician sees 29% drop'
-datePublished: '2016-04-27T22:44:02.892Z'
-dateModified: '2016-04-27T22:43:43.365Z'
-starred: false
+datePublished: '2016-04-28T16:37:42.480Z'
+dateModified: '2016-04-28T16:37:42.206Z'
 sourcePath: _posts/2016-04-27-apple-plunges-again-technician-sees-29-drop.md
 published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
