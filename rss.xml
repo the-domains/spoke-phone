@@ -4,7 +4,7 @@
         <description><![CDATA[Spoke - Calling people is about to get way easier!]]></description>
         <link>http://spokephone.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 21:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 21:12:05 GMT</lastBuildDate>
         <atom:link href="http://spokephone.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Is that Spoke?]]></title>
@@ -12,13 +12,6 @@
             <link>http://spokephone.com/yes-spoke-is-coming-hold-on/index.html</link>
             <guid isPermaLink="false">88c14425-ea9c-46f5-a6d1-878a853fd336</guid>
             <pubDate>Thu, 28 Apr 2016 17:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cool phone. #FuturePhone]]></title>
-            <description><![CDATA[<article><h1>Cool phone. #FuturePhone</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5d33c65-336f-46ba-b772-a08a70a2c841.jpg"></article>]]></description>
-            <link>http://spokephone.com/7f85563b-282b-4808-9708-9b8713fdee3c/index.html</link>
-            <guid isPermaLink="false">7f85563b-282b-4808-9708-9b8713fdee3c</guid>
-            <pubDate>Sat, 07 May 2016 21:11:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Old phone. #FuturePhone]]></title>
@@ -61,6 +54,13 @@
             <link>http://spokephone.com/a2de08ef-1165-42aa-8ad0-98730e0111ea/index.html</link>
             <guid isPermaLink="false">a2de08ef-1165-42aa-8ad0-98730e0111ea</guid>
             <pubDate>Tue, 03 May 2016 02:06:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cool phone. #FuturePhone?]]></title>
+            <description><![CDATA[<article><h1>Cool phone. #FuturePhone?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5d33c65-336f-46ba-b772-a08a70a2c841.jpg"></article>]]></description>
+            <link>http://spokephone.com/7f85563b-282b-4808-9708-9b8713fdee3c/index.html</link>
+            <guid isPermaLink="false">7f85563b-282b-4808-9708-9b8713fdee3c</guid>
+            <pubDate>Fri, 22 Apr 2016 15:18:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
