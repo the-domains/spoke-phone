@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-05-07T21:11:21.335Z'
+datePublished: '2016-05-07T22:29:28.321Z'
+sourcePath: _posts/2016-05-07-frustrating-phone-futurephone.md
 author: []
-dateModified: '2016-05-07T21:11:19.082Z'
+dateModified: '2016-05-07T22:29:26.298Z'
 title: 'Frustrating phone. #FuturePhone'
 description: ''
 starred: false
-sourcePath: _posts/2016-05-07-frustrating-phone-futurephone.md
 inFeed: true
 hasPage: true
 inNav: false
@@ -14,4 +14,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4dd285bc7d98c0daf65478773c55322c38159107.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aecfbad0-6656-4566-84bd-bafcd773d90d.png)
