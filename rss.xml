@@ -4,7 +4,7 @@
         <description><![CDATA[Spoke - Calling people is about to get way easier!]]></description>
         <link>http://spokephone.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 21:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 21:12:09 GMT</lastBuildDate>
         <atom:link href="http://spokephone.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Is that Spoke?]]></title>
@@ -12,6 +12,27 @@
             <link>http://spokephone.com/yes-spoke-is-coming-hold-on/index.html</link>
             <guid isPermaLink="false">88c14425-ea9c-46f5-a6d1-878a853fd336</guid>
             <pubDate>Thu, 28 Apr 2016 17:15:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cool phone. #FuturePhone]]></title>
+            <description><![CDATA[<article><h1>Cool phone. #FuturePhone</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5d33c65-336f-46ba-b772-a08a70a2c841.jpg"></article>]]></description>
+            <link>http://spokephone.com/7f85563b-282b-4808-9708-9b8713fdee3c/index.html</link>
+            <guid isPermaLink="false">7f85563b-282b-4808-9708-9b8713fdee3c</guid>
+            <pubDate>Sat, 07 May 2016 21:11:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Old phone. #FuturePhone]]></title>
+            <description><![CDATA[<article><h1>Old phone. #FuturePhone</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96b3b84972f4981c88f94c5d30a19e697e452107.jpg"></article>]]></description>
+            <link>http://spokephone.com/52ad0270-4275-4f98-acf0-32b54cde815b/index.html</link>
+            <guid isPermaLink="false">52ad0270-4275-4f98-acf0-32b54cde815b</guid>
+            <pubDate>Sat, 07 May 2016 21:11:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Imagine phone. #FuturePhone]]></title>
+            <description><![CDATA[<article><h1>Imagine phone. #FuturePhone</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd061777-bbdc-4ff4-b578-2128b17ed818.jpg"></article>]]></description>
+            <link>http://spokephone.com/imagine-phone-futurephone/index.html</link>
+            <guid isPermaLink="false">19d25b5c-40e5-49e4-ad11-071701099b57</guid>
+            <pubDate>Sat, 07 May 2016 21:11:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Frustrating phone. #FuturePhone]]></title>
@@ -35,32 +56,11 @@
             <pubDate>Sat, 07 May 2016 20:22:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Imagine phone. #FuturePhone?]]></title>
-            <description><![CDATA[<article><h1>Imagine phone. #FuturePhone?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd061777-bbdc-4ff4-b578-2128b17ed818.jpg"></article>]]></description>
-            <link>http://spokephone.com/imagine-phone-futurephone/index.html</link>
-            <guid isPermaLink="false">19d25b5c-40e5-49e4-ad11-071701099b57</guid>
-            <pubDate>Tue, 03 May 2016 02:07:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Who is Spoke? @SpokeNetwork]]></title>
             <description><![CDATA[<article><h1>Who is Spoke? @SpokeNetwork</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d135a9f47634e472e4e19c37b221e5b98ef34af.jpg"></article>]]></description>
             <link>http://spokephone.com/a2de08ef-1165-42aa-8ad0-98730e0111ea/index.html</link>
             <guid isPermaLink="false">a2de08ef-1165-42aa-8ad0-98730e0111ea</guid>
             <pubDate>Tue, 03 May 2016 02:06:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Old phone. #FuturePhone?]]></title>
-            <description><![CDATA[<article><h1>Old phone. #FuturePhone?</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96b3b84972f4981c88f94c5d30a19e697e452107.jpg"></article>]]></description>
-            <link>http://spokephone.com/52ad0270-4275-4f98-acf0-32b54cde815b/index.html</link>
-            <guid isPermaLink="false">52ad0270-4275-4f98-acf0-32b54cde815b</guid>
-            <pubDate>Fri, 22 Apr 2016 15:18:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cool phone. #FuturePhone?]]></title>
-            <description><![CDATA[<article><h1>Cool phone. #FuturePhone?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5d33c65-336f-46ba-b772-a08a70a2c841.jpg"></article>]]></description>
-            <link>http://spokephone.com/7f85563b-282b-4808-9708-9b8713fdee3c/index.html</link>
-            <guid isPermaLink="false">7f85563b-282b-4808-9708-9b8713fdee3c</guid>
-            <pubDate>Fri, 22 Apr 2016 15:18:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
