@@ -4,7 +4,7 @@
         <description><![CDATA[Spoke - Calling people is about to get way easier!]]></description>
         <link>http://spokephone.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 20:44:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 20:43:58 GMT</lastBuildDate>
         <atom:link href="http://spokephone.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Is that Spoke?]]></title>
@@ -12,13 +12,6 @@
             <link>http://spokephone.com/yes-spoke-is-coming-hold-on/index.html</link>
             <guid isPermaLink="false">88c14425-ea9c-46f5-a6d1-878a853fd336</guid>
             <pubDate>Thu, 28 Apr 2016 17:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Just got funding Term Sheet for the #FuturePhone #Network - getting closer to go!]]></title>
-            <description><![CDATA[<h1>Just got funding Term Sheet for the #FuturePhone #Network - getting closer to go!</h1>]]></description>
-            <link>http://spokephone.com/68c28929-d43c-4f6a-aac2-e4f57175430a/index.html</link>
-            <guid isPermaLink="false">68c28929-d43c-4f6a-aac2-e4f57175430a</guid>
-            <pubDate>Sat, 07 May 2016 20:43:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Funding Challengessss]]></title>
@@ -61,6 +54,13 @@
             <link>http://spokephone.com/7f85563b-282b-4808-9708-9b8713fdee3c/index.html</link>
             <guid isPermaLink="false">7f85563b-282b-4808-9708-9b8713fdee3c</guid>
             <pubDate>Fri, 22 Apr 2016 15:18:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Just got #Funding #TermSheet for the #FuturePhone #Network - getting closer togo! #Stealth #Startup #DiaryOfAStartUp]]></title>
+            <description><![CDATA[<h1>Just got #Funding #TermSheet for the #FuturePhone #Network - getting closer togo! #Stealth #Startup #DiaryOfAStartUp</h1>]]></description>
+            <link>http://spokephone.com/68c28929-d43c-4f6a-aac2-e4f57175430a/index.html</link>
+            <guid isPermaLink="false">68c28929-d43c-4f6a-aac2-e4f57175430a</guid>
+            <pubDate>Thu, 21 Apr 2016 14:28:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
