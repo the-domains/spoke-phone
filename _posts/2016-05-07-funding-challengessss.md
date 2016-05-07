@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-05-07T20:37:20.736Z'
+datePublished: '2016-05-07T20:43:31.365Z'
+sourcePath: _posts/2016-05-07-funding-challengessss.md
 author: []
-dateModified: '2016-05-07T20:37:04.568Z'
+dateModified: '2016-05-07T20:41:13.143Z'
 title: Funding Challengessss
 description: 'Reason 1: Market Problems'
 starred: false
-sourcePath: _posts/2016-05-07-funding-challengessss.md
 inFeed: true
 hasPage: true
 inNav: false
@@ -19,6 +19,7 @@ _type: Article
 Reason 1: Market Problems
 
 A major reason why companies fail, is that they run into the problem of their being little or no market for the product that they have built. Here are some common symptoms:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/711b55dc-122d-4d8f-ac05-df14a8ec5264.jpg)
 
 * There is not a compelling enough value proposition, or compelling event, to cause the buyer to actually commit to purchasing. Good sales reps will tell you that to get an order in today's tough conditions, you have to find buyers that have their "hair on fire", or are "in extreme pain". You also hear people talking about whether a product is a Vitamin (nice to have), or an Aspirin (must have).
 * The market timing is wrong. You could be ahead of your market by a few years, and they are not ready for your particular solution at this stage. For example when EqualLogic first launched their product, iSCSI was still very early, and it needed the arrival of VMWare which required a storage area network to do VMotion to really kick their market into gear. Fortunately they had the funding to last through the early years.
