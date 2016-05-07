@@ -1,20 +1,4 @@
-name: Spoke
-favicon: null
-layout_spectrum: 0.716548963682726
 typography_spectrum: 0.3574729156680405
-title: 'Spoke - Calling people is about to get way easier!'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#304269'
@@ -26,4 +10,20 @@ color:
   lightness: 0.75195860886015
   saturation: 0.9368237960152328
   rhythmicContrast: 0.9516590693965554
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.716548963682726
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Spoke
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Spoke - Calling people is about to get way easier!'
 purpose: []
