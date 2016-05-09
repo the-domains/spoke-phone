@@ -1,11 +1,12 @@
 ---
 description: 'Telecom companies count $386 billion in lost revenue to Skype, WhatsApp, others'
-dateModified: '2016-05-09T21:53:58.012Z'
-datePublished: '2016-05-09T21:54:00.917Z'
+dateModified: '2016-05-09T21:58:57.868Z'
+datePublished: '2016-05-09T21:59:07.232Z'
 title: "How 'bout them apples!"
 author: []
-starred: false
 sourcePath: _posts/2016-05-09-how-bout-them-apples.md
+isBasedOnUrl: 'http://fortune.com/2014/06/23/telecom-companies-count-386-billion-in-lost-revenue-to-skype-whatsapp-others/'
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
