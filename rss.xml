@@ -4,8 +4,15 @@
         <description><![CDATA[Spoke - Calling people is about to get way easier!]]></description>
         <link>http://spokephone.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 21:59:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 23:11:56 GMT</lastBuildDate>
         <atom:link href="http://spokephone.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Motorola is preparing 2 Moto X flagships with a modular backplate design]]></title>
+            <description><![CDATA[<article><h1>Motorola is preparing 2 Moto X flagships with a modular backplate design</h1><p>Just like last year, Motorola is preparing multiple Android handsets to be sold under the flagship Moto X brand, a person who was briefed on the plans told VentureBeat. The two all-metal phones look similar enough that images of them - leaked yesterday by HelloMotoHK on Google+ - were widely reported to be of a single device.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d88fae77a7c1d4088b19ba973630581a9d4692e.jpg"></article>]]></description>
+            <link>http://venturebeat.com/2016/05/09/motorola-is-preparing-2-moto-x-flagships-with-a-modular-backplate-design/</link>
+            <guid isPermaLink="false">18c8754f-870e-483e-a496-7996ddbc87b0</guid>
+            <pubDate>Mon, 09 May 2016 23:11:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How 'bout them apples!]]></title>
             <description><![CDATA[<article><h1>How 'bout them apples!</h1><p>Telecom companies count $386 billion in lost revenue to Skype, WhatsApp, others</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae7c069e-84fa-4e8c-96bc-a6c36f778712.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://spokephone.com/68c28929-d43c-4f6a-aac2-e4f57175430a/index.html</link>
             <guid isPermaLink="false">68c28929-d43c-4f6a-aac2-e4f57175430a</guid>
             <pubDate>Sat, 07 May 2016 20:43:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who is Spoke? @SpokeNetwork]]></title>
-            <description><![CDATA[<article><h1>Who is Spoke? @SpokeNetwork</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d135a9f47634e472e4e19c37b221e5b98ef34af.jpg"></article>]]></description>
-            <link>http://spokephone.com/a2de08ef-1165-42aa-8ad0-98730e0111ea/index.html</link>
-            <guid isPermaLink="false">a2de08ef-1165-42aa-8ad0-98730e0111ea</guid>
-            <pubDate>Tue, 03 May 2016 02:06:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
