@@ -4,8 +4,15 @@
         <description><![CDATA[Spoke - Calling people is about to get way easier!]]></description>
         <link>http://spokephone.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 23:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 18:07:56 GMT</lastBuildDate>
         <atom:link href="http://spokephone.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Yeah, not so sure it will matter Zuck, even if it's true. #VoiceRocks #FuturePhone]]></title>
+            <description><![CDATA[<article><h1>Yeah, not so sure it will matter Zuck, even if it's true. #VoiceRocks #FuturePhone</h1><p>"VOIP Call Quality will improve" Mark Zuckerberg. As more people make VOIP calls with Messenger and WhatsApp, call quality will improve...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97edcbd5f4dee4686907f2ebc31fe8d9461e1abd.jpg"></article>]]></description>
+            <link>http://venturebeat.com/2015/04/22/mark-zuckerberg-as-more-people-make-voip-calls-with-messenger-and-whatsapp-call-quality-will-improve/</link>
+            <guid isPermaLink="false">fdc32595-ff93-4cd3-bdc8-1a3596e2fe8b</guid>
+            <pubDate>Tue, 10 May 2016 18:07:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What can save the Telcos? The OTT onslaught continues!]]></title>
             <description><![CDATA[<article><h1>What can save the Telcos? The OTT onslaught continues!</h1><p>WhatsApp for Windows Phone gets free VoIP calling and ability to send audio files</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/156585f4b23daad3ec5e1f607da04c036c41c415.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://spokephone.com/imagine-phone-futurephone/index.html</link>
             <guid isPermaLink="false">19d25b5c-40e5-49e4-ad11-071701099b57</guid>
             <pubDate>Sat, 07 May 2016 21:11:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Just got funding Term Sheet for the #FuturePhone #Network - getting closer to go!]]></title>
-            <description><![CDATA[<h1>Just got funding Term Sheet for the #FuturePhone #Network - getting closer to go!</h1>]]></description>
-            <link>http://spokephone.com/68c28929-d43c-4f6a-aac2-e4f57175430a/index.html</link>
-            <guid isPermaLink="false">68c28929-d43c-4f6a-aac2-e4f57175430a</guid>
-            <pubDate>Sat, 07 May 2016 20:43:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
